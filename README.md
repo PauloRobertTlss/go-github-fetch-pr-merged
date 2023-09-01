@@ -1,13 +1,18 @@
-Require Golang
+## Require Golang
 
-`╰─❯ go version
-`output: go1.19.4`
+`
+╰─❯ go version
+`
 
-Running
+
+
+###### min:  go1.19.4
+
+##### Running
 
 ``go run github-rest/main.go``
 
-started github search 90 days
+## started github search 90 days
 
 ```
 //prints expected
